@@ -1,0 +1,11 @@
+Deep Learning Klasifikasi Gambar (Pemandangan)
+
+Submission Checklists:
+
+Kriteria 1: Bebas Memilih Dataset yang Ingin Dipakai, tetapi Harus Memiliki Minimal 1000 Gambar (Terpenuhi)
+Kriteria 2: Tidak Diperbolehkan Menggunakan Dataset Rock, Paper, Scissor dan X-Ray. (Terpenuhi)
+Kriteria 3: Dataset Dibagi Menjadi Train Set, Test Set dan Validation Set. (Terpenuhi)
+Kriteria 4: Model Harus Menggunakan Model Sequential, Conv2D, Pooling Layer (Terpenuhi)
+Kriteria 5: Akurasi pada Training dan Testing Set Minimal Sebesar 85% (Terpenuhi)
+Kriteria 6: Membuat Plot Terhadap Akurasi dan Loss Model (Terpenuhi)
+Kriteria 7: Menyimpan Model ke Dalam Format SavedModel, TF-Lite dan TFJS (Terpenuhi)
